@@ -58,6 +58,7 @@ plugins:
 author:
   name   : "Matthew Miller"
   avatar : "/assets/images/bio-photo.jpg"
+  location: "Arlington, VA"
   bio    : "A software engineer who enjoys technology, sports, snowboarding, and fishing."
   links:
     - label: "Twitter"

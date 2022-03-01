@@ -83,6 +83,12 @@ footer:
       icon: "fab fa-fw fa-linkedin"
       url: "https://linkedin.com/in/matthew-miller-mdm5857"
 
+analytics:
+  provider: "google-gtag"
+  google:
+    tracking_id: "G-V7W2871S2E"
+    anonymize_ip: false # default
+
 defaults:
   # _posts
   - scope:

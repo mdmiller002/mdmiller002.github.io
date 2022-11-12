@@ -69,7 +69,7 @@ author:
       url: "https://github.com/mdmiller002"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/matthew-miller-mdm5857"
+      url: "https://www.linkedin.com/in/mmiller002/"
 
 footer:
   links:
@@ -81,7 +81,7 @@ footer:
       url: "https://github.com/mdmiller002"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/matthew-miller-mdm5857"
+      url: "https://www.linkedin.com/in/mmiller002/"
 
 analytics:
   provider: "google-gtag"
